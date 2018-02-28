@@ -21,7 +21,7 @@
     <section id="dns" class="container">
         <h2>О системе доменных имен</h2>
         <div class="row mt-3">
-            <div class="col-8">
+            <div class="col-md-8">
                 <h3>
                     Основной компонент Интернета
                 </h3>
@@ -41,8 +41,8 @@
                     IP-адресом для этого сайта, после чего перенаправляет пользователя на соответствующий сайт.
                 </p>
             </div>
-            <div class="col-4">
-                <img src="img1.jpg" class="img-thumbnail">
+            <div class="col-md-4">
+                <a href="dns.pdf" class="row justify-content-center" target="_blank"><img src="img1.jpg" class="img-thumbnail"><br><p class="text-info text-center">Нажмите, чтобы открыть</p></a>
             </div>
         </div>
         <div class="row col-12 mt-3">
