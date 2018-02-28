@@ -1,0 +1,6 @@
+
+@import '../../bootstrap/scss/bootstrap';
+
+footer p::after {
+  content: $BSVersion;
+}
